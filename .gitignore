@@ -1,0 +1,5 @@
+vendor/
+glide.lock
+.terraform/
+*.tfstate
+*.backup

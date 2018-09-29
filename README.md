@@ -24,3 +24,7 @@ go.exe get -u github.com/aws/aws-lambda-go/cmd/build-lambda-zip
 1. `post.sh` - invoke API Gateway (POST)
 1. `get.sh 3` - invoke API Gateway (GET)
 1. `cleanup.sh` - destroy infrastructure with Terraform
+
+## Reference
+
+https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda
